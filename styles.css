@@ -1,0 +1,27 @@
+div {
+    background-color: aqua;
+    color:aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px seagreen solid;
+    padding: 10px;
+    margin: 50px;
+    margin-top: 10px;
+}
+
+#menu {
+    background-color: #00000025;
+    margin-left: 493px;
+    margin-right: 493px;
+}
+
+.menu-button {
+    padding: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+}
